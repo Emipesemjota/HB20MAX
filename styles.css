@@ -2,3 +2,6 @@ body {
   color: rgb(146, 44, 172);
   background:black;
 }
+img {
+   height: 200px;
+}
